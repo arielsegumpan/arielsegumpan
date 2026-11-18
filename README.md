@@ -1,7 +1,3 @@
-<div align="center">
-
-<!-- ==================== ANIMATED HEADER WAVE ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:22c55e&height=110§ion=header&animation=fadeIn" width="100%" alt="Header Wave" />
 
 <!-- ==================== 1. HERO HEADER: PROFILE + LIVE STATS ==================== -->
 <table width="100%">
@@ -64,8 +60,3 @@
     </td>
   </tr>
 </table>
-
-<!-- ==================== ANIMATED FOOTER WAVE ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:161b22,100:0d1117&height=90§ion=footer&animation=fadeIn" width="100%" alt="Footer Wave" />
-
-</div>
