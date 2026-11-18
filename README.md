@@ -1,10 +1,19 @@
+<div align="center">
+
+<!-- ==================== ANIMATED HEADER WAVE ==================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:22c55e&height=110§ion=header&animation=fadeIn" width="100%" alt="Header Wave" />
+
 <!-- ==================== 1. HERO HEADER: PROFILE + LIVE STATS ==================== -->
 <table width="100%">
   <tr>
     <td width="50%" valign="middle" align="left">
       <h1>OkalsEya</h1>
-      <p><a href="https://github.com/arielsegumpan"><code>@arielsegumpan</code></a></p>
-      <br />
+      <p>
+        <a href="https://github.com/arielsegumpan"><code>@arielsegumpan</code></a>
+      </p>
+      <p>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=900&color=22C55E&vCenter=true&width=420&height=28&lines=Full-Stack+Web+Developer;PHP+%E2%80%A2+Laravel+Blade+%E2%80%A2+JavaScript;Building+Clean+%26+Dynamic+Web+Apps" alt="Animated Typing Subtitle" />
+      </p>
       <p>
         <img src="https://img.shields.io/badge/PHP-1e293b?style=flat-square&logo=php&logoColor=60a5fa" alt="PHP" />
         <img src="https://img.shields.io/badge/Blade-2d1b1e?style=flat-square&logo=laravel&logoColor=f87171" alt="Blade" />
@@ -55,3 +64,8 @@
     </td>
   </tr>
 </table>
+
+<!-- ==================== ANIMATED FOOTER WAVE ==================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:161b22,100:0d1117&height=90§ion=footer&animation=fadeIn" width="100%" alt="Footer Wave" />
+
+</div>
