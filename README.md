@@ -35,14 +35,6 @@
   <img src="https://streak-stats.demolab.com?user=arielsegumpan&theme=github-dark-blue&hide_border=true&background=161b22&ring=f97316&fire=f97316&currStreakLabel=f97316&sideLabels=10b981&card_width=800" width="100%" alt="Productivity Insights" />
 </div>
 
-
-<!-- ==================== 3. FULL-WIDTH TOP LANGUAGES ==================== -->
-<div align="left">
-  <h4>💻 Top Languages</h4>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=arielsegumpan&layout=compact&langs_count=5&hide_border=true&bg_color=161b22&title_color=ffffff&text_color=d1d5db&card_width=800" width="100%" alt="Top Languages" />
-</div>
-
-
 <!-- ==================== 4. FULL-WIDTH CONTRIBUTIONS HEATMAP ==================== -->
 <table width="100%">
   <tr>
