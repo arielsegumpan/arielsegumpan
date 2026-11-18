@@ -1,9 +1,8 @@
-
 <!-- ==================== 1. HERO HEADER: PROFILE + LIVE STATS ==================== -->
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="50%" valign="middle" align="left">
-      <h1>OkalsEya</h1>
+    <td width="55%" valign="middle" align="left">
+      <h1 style="margin-bottom:0">OkalsEya</h1>
       <p>
         <a href="https://github.com/arielsegumpan"><code>@arielsegumpan</code></a>
       </p>
@@ -23,26 +22,28 @@
         <img src="https://img.shields.io/github/stars/arielsegumpan?affiliations=OWNER&label=STARS&style=flat-square&color=f59e0b&labelColor=1f2937" alt="Stars Earned" />
       </p>
     </td>
-    <td width="50%" valign="middle" align="center">
+    <td width="45%" valign="middle" align="right">
       <img src="https://github-stats-extended.vercel.app/api?username=arielsegumpan&show_icons=true&count_private=true&hide_border=true&bg_color=161b22&title_color=ffffff&text_color=9ca3af&icon_color=22c55e" width="100%" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
 
-<!-- ==================== 2. FULL-WIDTH PRODUCTIVITY INSIGHTS ==================== -->
-<div align="left">
-  <h4>🔥 Productivity Insights</h4>
-  <img src="https://streak-stats.demolab.com?user=arielsegumpan&theme=github-dark-blue&hide_border=true&background=161b22&ring=f97316&fire=f97316&currStreakLabel=f97316&sideLabels=10b981&card_width=800" width="100%" alt="Productivity Insights" />
-</div>
+<br />
 
-<!-- ==================== 4. FULL-WIDTH CONTRIBUTIONS HEATMAP ==================== -->
-<table width="100%">
-  <tr>
-    <td width="100%" align="left">
-      <h4>📊 Contributions <sub>(Last 52 weeks of activity)</sub></h4>
-      <a href="https://github.com/arielsegumpan">
-        <img src="https://ghchart.rshah.org/22c55e/arielsegumpan" width="100%" alt="52-Week Contribution Graph" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- ==================== 2. FULL-WIDTH PRODUCTIVITY INSIGHTS ==================== -->
+<h3 align="left">🔥 Productivity Insights</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=arielsegumpan&theme=github-dark-blue&hide_border=true&background=161b22&ring=f97316&fire=f97316&currStreakLabel=f97316&sideLabels=10b981&card_width=800" width="100%" alt="Productivity Insights" />
+</p>
+
+<br />
+
+<!-- ==================== 3. FULL-WIDTH CONTRIBUTIONS HEATMAP ==================== -->
+<h3 align="left">📊 Contributions <sub>(Last 52 weeks of activity)</sub></h3>
+
+<p align="center">
+  <a href="https://github.com/arielsegumpan">
+    <img src="https://ghchart.rshah.org/22c55e/arielsegumpan" width="100%" alt="52-Week Contribution Graph" />
+  </a>
+</p>
