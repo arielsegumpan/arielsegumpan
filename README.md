@@ -2,9 +2,6 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="middle" align="left">
-      <a href="https://github.com/arielsegumpan">
-        <img src="https://github.com/arielsegumpan.png" width="72" height="72" align="left" alt="OkalsEya Avatar" />
-      </a>
       <h3>  OkalsEya</h3>
       <p>  <a href="https://github.com/arielsegumpan"><code>@arielsegumpan</code></a></p>
       <br />
