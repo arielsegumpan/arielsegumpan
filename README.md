@@ -1,9 +1,9 @@
-
+<!-- ==================== 1. HERO HEADER: PROFILE + LIVE STATS ==================== -->
 <table width="100%">
   <tr>
     <td width="50%" valign="middle" align="left">
-      <h3>  OkalsEya</h3>
-      <p>  <a href="https://github.com/arielsegumpan"><code>@arielsegumpan</code></a></p>
+      <h1>OkalsEya</h1>
+      <p><a href="https://github.com/arielsegumpan"><code>@arielsegumpan</code></a></p>
       <br />
       <p>
         <img src="https://img.shields.io/badge/PHP-1e293b?style=flat-square&logo=php&logoColor=60a5fa" alt="PHP" />
@@ -24,25 +24,31 @@
   </tr>
 </table>
 
-<!-- ==================== 2. FULL-WIDTH LANGUAGES & PRODUCTIVITY ==================== -->
+<!-- ==================== 2. FULL-WIDTH PRODUCTIVITY INSIGHTS ==================== -->
 <table width="100%">
   <tr>
-    <td width="50%" valign="top" align="left">
-      <h4>Top Languages</h4>
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=arielsegumpan&layout=donut&langs_count=5&hide_border=true&bg_color=161b22&title_color=ffffff&text_color=d1d5db" width="100%" alt="Top Languages" />
-    </td>
-    <td width="50%" valign="top" align="left">
-      <h4>Productivity Insights</h4>
-      <img src="https://streak-stats.demolab.com?user=arielsegumpan&theme=github-dark-blue&hide_border=true&background=161b22&ring=f97316&fire=f97316&currStreakLabel=f97316&sideLabels=10b981" width="100%" alt="Productivity Insights" />
+    <td width="100%" align="left">
+      <h4>🔥 Productivity Insights</h4>
+      <img src="https://streak-stats.demolab.com?user=arielsegumpan&theme=github-dark-blue&hide_border=true&background=161b22&ring=f97316&fire=f97316&currStreakLabel=f97316&sideLabels=10b981&card_width=800" width="100%" alt="Productivity Insights" />
     </td>
   </tr>
 </table>
 
-<!-- ==================== 3. FULL-WIDTH CONTRIBUTIONS HEATMAP ==================== -->
+<!-- ==================== 3. FULL-WIDTH TOP LANGUAGES ==================== -->
 <table width="100%">
   <tr>
     <td width="100%" align="left">
-      <h4>Contributions <sub>(Last 52 weeks of activity)</sub></h4>
+      <h4>💻 Top Languages</h4>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=arielsegumpan&layout=compact&langs_count=5&hide_border=true&bg_color=161b22&title_color=ffffff&text_color=d1d5db&card_width=800" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<!-- ==================== 4. FULL-WIDTH CONTRIBUTIONS HEATMAP ==================== -->
+<table width="100%">
+  <tr>
+    <td width="100%" align="left">
+      <h4>📊 Contributions <sub>(Last 52 weeks of activity)</sub></h4>
       <a href="https://github.com/arielsegumpan">
         <img src="https://ghchart.rshah.org/22c55e/arielsegumpan" width="100%" alt="52-Week Contribution Graph" />
       </a>
